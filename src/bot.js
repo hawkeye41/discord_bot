@@ -29,8 +29,7 @@ client.on('message',(message)=>{
         message.channel.send("nothing just chill");
         if(message.content === 'wah')
         message.channel.send("chal hatt bosdike");   
-        if(message.content === 'Hello')
-        message.channel.send("hello ky bosdike kam kr apna");        
+               
 
 
 
